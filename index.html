@@ -2,17 +2,33 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<!-- Start of the section post-loop-->
+<section class="post-loop container-fluid">
+    {% for post in site.posts %}
+    <div class="row single-post">
+        <div>
+            <h1 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+            <div class="post-details">
+                <span>{{ post.date | date: "%b %-d, %Y" }}</span>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+            </div>
+
+            <p class="post-excerpt">
+                {{post.excerpt | length: 140 }}
+            </p>
+
+            <a class="post-button pi-big pi-retro pi-flat" href="{{ post.url }}">More</a>
+
+        </div>
+    </div>
+
+    {% endfor %}
+</section>
+
+
+
+
+
+
