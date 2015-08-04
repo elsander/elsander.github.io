@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating and populating a database using Python and SQLalchemy,
+title: Creating and populating a database using Python and SQLalchemy.
    Part 1: Communicating with your database
 
 ---
