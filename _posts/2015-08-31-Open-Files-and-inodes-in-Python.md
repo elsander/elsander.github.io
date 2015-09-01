@@ -26,15 +26,18 @@ this behavior. Try this to see what I mean (definitely works on Linux,
 and probably will also work on a Mac):
 
 In Python:
+
     f = open('tmp', 'a')
     f.write('Python!')
 	f.flush()
 
 Ok, now we have our little file. Now from the command line, run:
-    echo "echo!" >> tmp
+
+	echo "echo!" >> tmp
 
 You can `cat` the file to see that it has everything we've added so
 far. Now go back to Python:
+
     f.write('Python again!')
     f.flush()
 
@@ -45,6 +48,7 @@ emacs or vim (this will work with most advanced editors, so something
 like Sublime should also be fine). In your text editor, add a line,
 then save and close. If you `cat` it, that line will appear there too,
 no big surprise. But now in Python:
+
     f.write('Python is confused!')
     f.flush()
 
@@ -75,8 +79,8 @@ processes, it may be the size instead). The offset
 is essentially telling you how many characters have been written to
 file. The inode is how Linux stores information about the file,
 including metadata and blocks of memory used to store the file. For
-me, ipython sees that the file tmp is using inode 8919545. Now if we
-write to that file using echo:
+me, ipython sees that the file `tmp` is using inode 8919545. Now if we
+write to that file using `echo`:
 
 	echo 'hi' > tmp
 	lsof | grep path/to/tmp
@@ -151,4 +155,4 @@ files that you're editing with a program. Tying it back to Python's
 logging module, it seems that the logger simply opens a file
 connection and leaves it open. Viewing the file should be fine, but
 editing the text could break it. If you really need to edit it while
-your code is running, use an inline editor like vi.
+your code is running, you can use an inline editor like vi as a workaround.
