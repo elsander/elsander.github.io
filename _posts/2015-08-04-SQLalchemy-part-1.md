@@ -10,8 +10,10 @@ working with a group of other awesome programmers to learn and
 self-study programming full-time for three months.
 
 My first few weeks here, I've primarily been learning
-how to populate a database with Python. I'm working with a Yelp
-academic dataset, which I recieved as a JSON file, but to make it
+how to populate a database with Python. Yelp has given me access to
+the [Yelp
+academic dataset](https://www.yelp.com/academic_dataset), which I
+recieved as a JSON file, but to make it
 easy to query I wanted to put it in a relational database. I started
 off using sqlite3, which is a great module but essentially requires
 you to write SQL by hand. Python then passes your queries directly to

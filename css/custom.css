@@ -192,3 +192,8 @@ a {
     color: #000 !important; }
 
 /*# sourceMappingURL=custom.css.map */
+
+  .trigger  a{
+      color: #FF0000;
+  }
+  
