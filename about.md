@@ -19,5 +19,9 @@ it out!
 
 # Find me elsewhere on the internet!
 [GitHub](https://github.com/esander91)
+
+
 [LinkedIn](https://www.linkedin.com/profile/view?id=AAIAAApzv2UBCpUqH-gYsrWn46LuuUACmurwpCE&trk=nav_responsive_tab_profile)
+
+
 [Google Scholar](https://scholar.google.com/citations?user=8nKpCBYAAAAJ&hl=en&oi=sra)
