@@ -240,3 +240,7 @@ nav a:hover {
 .dumb {
     height: 60px;
 }
+
+.fa-rss-square {
+    color: #FF9900;
+}

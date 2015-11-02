@@ -17,7 +17,7 @@ at a programming retreat called the
 [Recurse Center](https://www.recurse.com/). It was pretty great! Check
 it out!
 
-# Find me elsewhere on the internet!
+## Find me elsewhere on the internet!
 [GitHub](https://github.com/esander91)
 
 
