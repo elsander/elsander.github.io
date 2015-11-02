@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 5
 url: "" # the base hostname & protocol for your site
 github_username: esander91
+linkedin_url: "https://www.linkedin.com/profile/view?id=AAMAAApzv2UBPiQAV9frxat_NUWqBSDL0LnLgGQ&trk=hp-identity-name"
 portfolio_url: 
 
 # Build settings

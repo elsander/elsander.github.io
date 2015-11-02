@@ -237,10 +237,18 @@ nav a:hover {
     right: 0;
 }
 
-.dumb {
-    height: 60px;
+.fa-github-square {
+    color: #000;
 }
 
 .fa-rss-square {
     color: #FF9900;
+}
+
+.fa-linkedin-square {
+    color: #0077B5;
+}
+
+.dumb {
+    height: 60px;
 }
