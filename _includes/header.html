@@ -2,26 +2,27 @@
 <!-- Start with the header -->
 <section class="header" id="header">
 
-
-
-    <a class="tab pi-default pi-big pi-flat" target="_blank" href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> My Github</a>
+  <!-- Dumb hack to fix header -->
+  <div class="dumb"></div>
+  
+    <a class="tab pi-default pi-big pi-flat github-link" target="_blank" href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i> My Github</a>
 
     <!-- Main Head Title -->
     {% if site.title %}<h2><a href="{{site.baseurl}}/">{{site.title}}</a></h2>{% endif %}
     {% if site.smalltalk %}<p>{{ site.smalltalk }}</p>{% endif %}
 
-    <div class="trigger">
-      {% for page in site.pages %}
-      {% if page.title %}
-      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      {% endif %}
-      {% endfor %}
-    </div>
-
 </section>
 
-
-
+<nav>
+  <ul>
+    <li><a class="page-link" href="/">Home</a></li>
+    {% for page in site.pages %}
+    {% if page.title %}
+    <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
 
 
 

@@ -1,11 +1,23 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a fourth year graduate student in Ecology and Evolution at the
+University of Chicago, working with Stefano Allesina and Tim
+Wootton. I am interested in studying and understanding complex
+ecological networks using simulation, machine learning, and other
+computational approaches. Outside of the lab, I like to play with
+data, contribute to open source, and can sometimes be found
+upside-down on a trapeze bar.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I spent this past summer honing my coding and machine learning skills
+at a programming retreat called the
+[Recurse Center](https://www.recurse.com/). It was pretty great! Check
+it out!
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+# Find me elsewhere on the internet!
+[GitHub](https://github.com/esander91)
+[LinkedIn](https://www.linkedin.com/profile/view?id=AAIAAApzv2UBCpUqH-gYsrWn46LuuUACmurwpCE&trk=nav_responsive_tab_profile)
+[Google Scholar](https://scholar.google.com/citations?user=8nKpCBYAAAAJ&hl=en&oi=sra)
