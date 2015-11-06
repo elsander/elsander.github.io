@@ -3,7 +3,7 @@
     position: relative;
     background: url("../img/bg.jpeg") 50% 0 no-repeat fixed;
     width: 100%;
-    min-height: 400px;
+    height: 400px;
     margin: 0 auto;
     padding: 0; }
 .header h2 {

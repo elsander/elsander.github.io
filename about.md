@@ -14,8 +14,8 @@ upside-down on a trapeze bar.
 
 I spent this past summer honing my coding and machine learning skills
 at a programming retreat called the
-[Recurse Center](https://www.recurse.com/). It was pretty great! Check
-it out!
+[Recurse Center](https://www.recurse.com/). It was pretty great! Take
+a look!
 
 ## Find me elsewhere on the internet!
 [GitHub](https://github.com/esander91)
