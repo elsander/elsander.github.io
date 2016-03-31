@@ -23,7 +23,7 @@ general, the fitness function refers to some quantitative metric for
 how good your solution is. You
 could be trying to find a route to minimize the distance travelled for
 a UPS driver (this is the well-known
-[travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)),
+[travelling sales rep problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)),
 or you could be trying to choose the price point and production cost
 in order to maximize units of clothing sold. Each of these problems has a well-defined
 fitness function to minimize (total distance and
@@ -65,7 +65,7 @@ change to the current solution. You want this mutation to be
 fairly small, so that you're searching locally in the solution
 space. If you make big changes to your solution with every mutation
 step, you're not really hill climbing, you're just trying out random
-solutions, which isn't very efficient. For the travelling salesman
+solutions, which isn't very efficient. For the travelling sales rep
 problem, a solution will be a permutation of the destinations, so a
 reasonable mutation function would be to randomly swap the order of
 two destinations.
@@ -281,7 +281,7 @@ algorithms. However, because you are maintaining a population, you can
 allow recombination, in which multiple parents are combined to form a
 single child solution. Occasionally allowing solutions to recombine
 can introduce new variability into the population, but it is not
-appropriate for all problems. In the travelling salesman problem, for
+appropriate for all problems. In the travelling sales rep problem, for
 example, each destination should appear in the solution once. For
 instance, if you want the optimal path between locations {A,B,C,D},
 it's not obvious how you would combine the path A -> B -> C -> D with
@@ -316,4 +316,4 @@ convergence, and MC^3 is constantly getting new variation via the hot
 chains, so I've found that it takes less tuning to get good results. I
 encourage you to try them all and see what works best for your
 problem. Simple examples of each algorithm, as applied to the
-travelling salesman problem, can be found on my [github](https://github.com/esander91/RecurseCenter/tree/master/OptimWorkshop). Happy coding!
+travelling sales rep problem, can be found on my [github](https://github.com/esander91/RecurseCenter/tree/master/OptimWorkshop). Happy coding!
