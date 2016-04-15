@@ -1,0 +1,23 @@
+- slug: Algorithms
+  name: Algorithms
+
+- slug: C
+  name: C
+  
+- slug: ggplot
+  name: ggplot
+  
+- slug: Linux
+  name: Linux
+  
+- slug: Python
+  name: Python
+
+- slug: R
+  name: R
+
+- slug: SQL
+  name: SQL
+
+- slug: SQLalchemy
+  name: SQLalchemy

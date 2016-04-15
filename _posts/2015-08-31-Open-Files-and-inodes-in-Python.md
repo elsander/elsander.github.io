@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Open Files and inodes in Python and Beyond
+category: programming
+tags: [Python, C, Linux]
 
 ---
 

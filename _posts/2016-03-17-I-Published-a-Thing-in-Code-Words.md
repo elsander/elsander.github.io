@@ -1,6 +1,8 @@
 ---
 layout: post
 title: I Published a Thing in Code Words!
+category: programming
+tags: [R, ggplot]
 
 ---
 

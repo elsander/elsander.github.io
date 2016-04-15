@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Heuristic optimization algorithms for fun and (academic) profit
+category: programming
+tags: [Python, Algorithms]
 
 ---
 

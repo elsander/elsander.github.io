@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Capturing Shell Output in R and Python
+category: programming
+tags: [R, Python]
 
 ---
 
