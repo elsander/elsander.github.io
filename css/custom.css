@@ -249,6 +249,13 @@ nav a:hover {
     color: #0077B5;
 }
 
+.footer {
+    font-size: 11px;
+    text-align: center;
+    color: #666;
+    padding-bottom: 30px;
+}
+
 .dumb {
     height: 60px;
 }
