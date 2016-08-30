@@ -30,7 +30,8 @@
     color: #000; }
 .header .tab {
     font-weight: 900;
-    font-size: 1.4em; }
+    font-size: 1.4em;
+    white-space: nowrap; }
 .header .social-pack {
     text-align: center; }
 .header .social-pack a {

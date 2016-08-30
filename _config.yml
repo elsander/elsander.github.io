@@ -11,3 +11,4 @@ portfolio_url:
 
 # Build settings
 markdown: kramdown
+gems: [jekyll-paginate]
