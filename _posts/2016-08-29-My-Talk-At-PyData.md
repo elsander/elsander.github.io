@@ -22,9 +22,10 @@ results of a specific study. I'm very proud of the fact that I got to
 talk about  managing Skyrim loot as an example of an optimization problem
 (it's quite literally a knapsack problem!).
 
-I'll link to the talk itself once it's online, but you can take a look
-at a pdf of the slides here:
+You can take a look at the slides here:
 
 [Evolutionary Algorithms: Perfecting the Art of "Good Enough"](http://www.lizsander.com/pdfs/PyDataTalk.pdf)
 
+And the talk itself here:
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=iJ4MiibHt68" target="_blank"><img src="http://img.youtube.com/vi/iJ4MiibHt68/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
