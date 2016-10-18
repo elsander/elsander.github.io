@@ -6,6 +6,18 @@ tags: [Algorithms]
 
 ---
 
+*Note: This post is a follow-up to another post I wrote, which is a
+ more general introduction to heuristic optimization algorithms. I
+ recommend you read
+ [my earlier post](http://www.lizsander.com/programming/2015/08/04/Heuristic-Search-Algorithms.html)
+ before this one.*
+ 
+ *I wrote this post with helpful input from the awesome ladies
+  at a Chicago Write/Speak/Code meetup! Kara Carrell wrote a great
+  post on [The Four A's](I'll add links to what
+  everyone wrote), and I'll link to what others wrote as it
+  comes online.*
+
 Let's say you have a optimization problem you want to solve. You can
 calculate how good a given solution is (you have a fitness function),
 but you don't know anything about the fitness landscape. No problem;
