@@ -28,4 +28,8 @@ You can take a look at the slides here:
 
 And the talk itself here:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=iJ4MiibHt68" target="_blank"><img src="http://img.youtube.com/vi/iJ4MiibHt68/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a
+href="http://www.youtube.com/watch?feature=player_embedded&v=iJ4MiibHt68"
+target="_blank"><img src="http://img.youtube.com/vi/iJ4MiibHt68/0.jpg"
+alt="Evolutionary Algorithms: Perfecting the Art of 'Good Enough'"
+width="240" height="180" border="10" /></a>
