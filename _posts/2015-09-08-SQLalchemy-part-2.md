@@ -8,7 +8,7 @@ tags: [Python, SQL, SQLalchemy]
 ---
 
 Last month I wrote a post on
-[the SQLalchemy engine and session](http://esander91.github.io/2015/08/04/SQLalchemy-part-1.html). Now
+[the SQLalchemy engine and session](http://elsander.github.io/2015/08/04/SQLalchemy-part-1.html). Now
 I'm going to describe how you can set up a mapping for your schema so
 that you can populate and query your database.
 

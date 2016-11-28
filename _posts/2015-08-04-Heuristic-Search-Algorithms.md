@@ -318,4 +318,5 @@ convergence, and MC^3 is constantly getting new variation via the hot
 chains, so I've found that it takes less tuning to get good results. I
 encourage you to try them all and see what works best for your
 problem. Simple examples of each algorithm, as applied to the
-travelling sales rep problem, can be found on my [github](https://github.com/esander91/RecurseCenter/tree/master/OptimWorkshop). Happy coding!
+travelling sales rep problem, can be found on my
+[github](https://github.com/elsander/GoodEnoughAlgs). Happy coding!
