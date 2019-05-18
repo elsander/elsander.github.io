@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I'm a data scientist doing research and development work at Civis
+I'm a Senior Data Scientist doing research and development work at Civis
 Analytics in Chicago. I like bringing a software design mentality to
 data science problems, and turning one-time analyses into automated
 workflows. I finished my doctorate in Ecology and Evolution at the
