@@ -4,10 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-I'm a Senior Data Scientist doing research and development work at Civis
-Analytics in Chicago. I like bringing a software design mentality to
-data science problems, and turning one-time analyses into automated
-workflows. I finished my doctorate in Ecology and Evolution at the
+I'm a Lead Data Scientist on the Surveys team at Civis Analytics in
+Chicago. I set methodological priorities for the team,
+including topics like survey weighting, quota setting, and message
+testing. I bring a software design mentality to
+data science problems, and focus on converting ad-hoc analyses into
+production code. I received my doctorate in Ecology and Evolution at the
 University of Chicago in 2017, where I studied complex ecological
 network structure.
 
