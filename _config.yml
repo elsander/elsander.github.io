@@ -1,6 +1,6 @@
 # Site settings
-title: Liz Sander
-smalltalk: "Data science, ecology, and programming enthusiast"
+title: Eli Sander
+smalltalk: "Tech Lead + Data Scientist"
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 5

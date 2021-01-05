@@ -25,7 +25,7 @@ really learned to love thinking like a programmer, and it's an amazing
 community. Take a look!
 
 ## Find me elsewhere on the internet!
-[GitHub](https://github.com/esander91)
+[GitHub](https://github.com/elsander)
 
 
 [LinkedIn](https://www.linkedin.com/profile/view?id=AAIAAApzv2UBCpUqH-gYsrWn46LuuUACmurwpCE&trk=nav_responsive_tab_profile)
