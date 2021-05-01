@@ -8,7 +8,7 @@ tags: [Python]
 
 I went to my third PyCon last weekend, and gave a talk about pre-mortems and post-mortems, and how teams can use them to learn from failure. As promised in that talk, I'm making my slides available for anyone who wants to reference them. Those slides are here:
 
-[Lowering the Stakes of Failure with Pre-mortems and Post-mortems](http://www.lizsander.com/pdfs/PyCon_2019.pdf)
+[Lowering the Stakes of Failure with Pre-mortems and Post-mortems](http://www.elisander.com/pdfs/PyCon_2019.pdf)
 
 There's a couple of bonus slides at the end, which didn't make it into my presentation. Two years out of grad school, I can't quite keep myself from making appendix slides.
 
@@ -34,6 +34,6 @@ You might have noticed that I haven't posted anything in... quite a while. It wa
 
 I also gave a talk about scikit-learn at PyCon 2018. I never posted the slides or YouTube link on my site, but better late than never!
 
-[Software Library APIs: Lessons Learned from scikit-learn](http://www.lizsander.com/pdfs/PyCon_2018.pdf)
+[Software Library APIs: Lessons Learned from scikit-learn](http://www.elisander.com/pdfs/PyCon_2018.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WCEXYvv-T5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

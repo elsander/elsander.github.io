@@ -9,7 +9,7 @@ tags: [Algorithms]
 *Note: This post is a follow-up to another post I wrote, which is a
  more general introduction to heuristic optimization algorithms. I
  recommend you read
- [my earlier post](http://www.lizsander.com/programming/2015/08/04/Heuristic-Search-Algorithms.html)
+ [my earlier post](http://www.elisander.com/programming/2015/08/04/Heuristic-Search-Algorithms.html)
  before this one.*
  
  *I wrote this post with helpful input from the awesome ladies

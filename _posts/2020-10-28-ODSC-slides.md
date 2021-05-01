@@ -12,4 +12,4 @@ for data scientists (I've given them myself), but I think business
 skills are equally important in doing impactful work. Check out my
 slides here:
 
-[Business Skills for Data Scientists](http://www.lizsander.com/pdfs/ODSC_West_2020.pdf)
+[Business Skills for Data Scientists](http://www.elisander.com/pdfs/ODSC_West_2020.pdf)

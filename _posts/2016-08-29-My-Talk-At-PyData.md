@@ -9,7 +9,7 @@ tags: [Python, Algorithms]
 Last weekend I gave a talk at PyData Chicago! It was called
 "Evolutionary Algorithms: Perfecting the Art of 'Good Enough'" (props
 to my thesis advisor, Stefano Allesina, for the catchy title). It was
-heavily based on my [blog post](http://www.lizsander.com/programming/2015/08/04/Heuristic-Search-Algorithms.html) and workshops I've given. Heuristic
+heavily based on my [blog post](http://www.elisander.com/programming/2015/08/04/Heuristic-Search-Algorithms.html) and workshops I've given. Heuristic
 optimizers are a fun topic for me because they are so general and
 useful, but they're not really a hot topic, and I think a lot of
 people have just never encountered them. They're a great
@@ -24,7 +24,7 @@ talk about  managing Skyrim loot as an example of an optimization problem
 
 You can take a look at the slides here:
 
-[Evolutionary Algorithms: Perfecting the Art of "Good Enough"](http://www.lizsander.com/pdfs/PyDataTalk.pdf)
+[Evolutionary Algorithms: Perfecting the Art of "Good Enough"](http://www.elisander.com/pdfs/PyDataTalk.pdf)
 
 And the talk itself here:
 
